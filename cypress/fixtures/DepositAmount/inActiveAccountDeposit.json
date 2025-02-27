@@ -1,0 +1,7 @@
+{
+    "account_number": "0000000000001",
+    "amount": 5000,
+    "currency": "USD", 
+    "deposit_method": "cash",
+    "description": "Salary for September 2024"
+}

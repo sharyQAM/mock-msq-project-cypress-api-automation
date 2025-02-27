@@ -1,0 +1,5 @@
+{
+    "badRequest": "Bad Request",
+    "conflict": "Conflict",
+    "emailErrorField": "email"
+}

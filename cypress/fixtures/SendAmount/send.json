@@ -1,0 +1,7 @@
+{
+    "from_account_number": "1234567890",
+    "to_account_number": "9876543210",
+    "amount": 1000,
+    "currency": "USD",
+    "description": "Payment for invoice #12345"
+}

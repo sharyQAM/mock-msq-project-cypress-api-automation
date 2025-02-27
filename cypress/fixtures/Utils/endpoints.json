@@ -1,0 +1,7 @@
+{
+    "create_user": "/api/v1/users/create",
+    "deposit": "/api/v1/accounts/deposit",
+    "get_balance": "/api/v1/accounts/balance",
+    "send": "/api/v1/accounts/send",
+    "withdraw": "/api/v1/accounts/withdraw"
+}

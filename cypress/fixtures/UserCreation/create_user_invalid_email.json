@@ -1,0 +1,17 @@
+{
+    "first_name": "Shaharyar",
+    "last_name": "Khan",
+    "email": "shaharyar!#@.com",
+    "password": "P@ssw0rd123",
+    "phone_number": "+1234567890",
+    "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "postal_code": "62704",
+        "country": "USA"
+    },
+    "date_of_birth": "1990-01-15",
+    "national_id": "AB1234567",
+    "account_type": "savings"
+}
